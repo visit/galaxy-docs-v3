@@ -7,7 +7,7 @@
 
 ## Site settings
 title: Visit Galaxy API Documentation
-baseurl: "galaxy-docs"
+baseurl: "galaxy-docs-v3"
 
 ## Build settings
 # Excludes

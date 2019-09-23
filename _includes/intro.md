@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Visit Galaxy API Reference. If you don’t have an API key, get in touch with us.
+Welcome to the Visit Galaxy API Reference for the legacy V3 version. If you don’t have an API key, get in touch with us.
 
 The API gives you access to some of the citybreak functionaility, enabling you to search for products, get content, search availability and use shopping baskets for booking and generating pay-later invoices. 
 
@@ -10,7 +10,7 @@ The live Galaxy API endpoint is accessible at <a href="https://galaxy.citybreak.
 
 <aside class="warning">These are the docs for the V3 of the Galaxy API.<br/>
 The docs for the V2 version of the galaxy API are found here <a href="https://visit.github.io/galaxy-docs-v2/">https://visit.github.io/galaxy-docs-v2/</a>.<br/>
-The endpoint for V2 is <a href="https://galaxy.citybreak.com/v2/">https://galaxy.citybreak.com/v2/</a></aside>
+The docs for the latest version of the galaxy API are found here <a href="https://visit.github.io/galaxy-docs/">https://visit.github.io/galaxy-docs/</a>.</aside>
 
 <aside class="notice">One of the first queries you should try is the Point of Sale query as you will need a valid Point of Sale Id for most of the others</aside>
   
